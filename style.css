@@ -1,0 +1,75 @@
+.logo{
+    width: 130px;
+    height: 100%;
+}
+.illustration{
+    width: 554px;
+    height: 346px;
+    
+}
+
+.top-bar{
+    padding: 15px;
+    background-color: #F0FFF0;
+    
+}
+.btn{
+    height: 43px;
+    color: #ffffff;
+    background-color: #21B573;
+    border-radius: 33px;
+    }
+.btn:hover{
+        background-color: #F0FFF0;
+    }
+.p-1{
+    color: #FD511A;
+}
+span h2{
+    color: #21B573;
+}
+.top-card {
+    background-color: white;
+}
+/* .card:hover{
+    background-color: #21B573;
+} */
+.img-e1{
+    width: 66px;
+    height: 85px;
+    margin: 100px;
+   
+}
+.img-e2{
+    width: 80px;
+    height: 83px;
+    margin: 100px;
+   
+}
+.img-e3{
+    width: 75px;
+    height: 80px;
+    margin: 100px;
+   
+}
+.img-e4{
+    width: 68px;
+    height: 76px;
+    margin: 100px;
+   
+}
+
+.card{ 
+    width: 270px;
+    height: 270px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+   
+}
+.top-card{
+    margin: 40px;
+}
+.courses{
+    margin-top: 200px;
+}
