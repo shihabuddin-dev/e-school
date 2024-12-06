@@ -7,11 +7,20 @@
     height: 346px;
     
 }
-
+.nav-bar{
+   padding-top: 30px;
+   padding-left: 50px;
+   padding-right: 50px;
+    background-color: #F0FFF0;
+}
 .top-bar{
-    padding: 15px;
+    padding: 35px;
     background-color: #F0FFF0;
     
+}
+.gs-btn{
+    color: white;
+    text-decoration: none;
 }
 .btn{
     height: 43px;
@@ -29,11 +38,9 @@ span h2{
     color: #21B573;
 }
 .top-card {
+    margin-top: 100px;
     background-color: white;
 }
-/* .card:hover{
-    background-color: #21B573;
-} */
 .img-e1{
     width: 66px;
     height: 85px;
@@ -58,6 +65,10 @@ span h2{
     margin: 100px;
    
 }
+.top-card{
+    background-color: white;
+    margin-top: 60px;
+}
 
 .card{ 
     width: 270px;
@@ -67,9 +78,47 @@ span h2{
     border-radius: 10px;
    
 }
-.top-card{
-    margin: 40px;
+
+.card-2nd{
+    margin-top: 170px;
+    margin-left: 100px;
+    background-color: white;
 }
-.courses{
-    margin-top: 200px;
+.con-text{
+    margin-bottom: 60px;
+}
+
+.man{
+    width: 120px;
+    height: 120px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.last-p{
+    width: 580px;
+    height: 90px;
+    padding-right: 50px;
+    margin-top: 65px;
+    margin-left: 80px;
+}
+.oc-text{
+    margin-top: 90px;
+    padding-right: 100px;
+}
+.testimonial-text{
+    margin-top: 50px;
+}
+.last-sec{
+    margin-top: 100px;
+    padding-top: 70px;
+    padding-left: 80px;
+    width: 1440px;
+    height: 280px;
+    background-color: #282531;
+    color: white;
+}
+footer{
+    padding-bottom: 30px;
+    color: #F0FFF0;
+    background-color: #282531;
 }
