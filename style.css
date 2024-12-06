@@ -81,11 +81,13 @@ span h2{
 
 .card-2nd{
     margin-top: 170px;
-    margin-left: 100px;
+    margin-left: 150px;
     background-color: white;
 }
-.con-text{
+.container h2{
     margin-bottom: 60px;
+    margin-top: 90px;
+    padding-right: 100px;
 }
 
 .man{
@@ -101,12 +103,10 @@ span h2{
     margin-top: 65px;
     margin-left: 80px;
 }
-.oc-text{
-    margin-top: 90px;
-    padding-right: 100px;
-}
+
 .testimonial-text{
-    margin-top: 50px;
+    padding-left: 50px;
+
 }
 .last-sec{
     margin-top: 100px;
